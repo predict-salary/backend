@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+temp/
+.pt_tmp/
+
+models/weight_store/*
+
+*.pt
+*.pkl
+*.sav
